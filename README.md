@@ -1,5 +1,7 @@
 # Lisa Notes Extractor — README
 
+![Pi7_GIF_CMP](https://github.com/user-attachments/assets/97785051-2f0e-4861-8e8b-a1de98d29ccb)
+
 ## Installation
 
 1. Install **Tampermonkey** or **Violentmonkey** extension in your browser.
