@@ -36,7 +36,7 @@ That’s it — no extra setup. Just install, visit a page with PDFs, hit the sh
 // @name         Lisa Notes Extractor
 // @namespace    https://github.com/dyrok/
 // @version      1.0
-// @description  Extract PDF links and display on any page + Special Integration in Lisa (ctrl+option+p)
+// @description  Extract PDF links and display on any page + Special Integration in Lisa (ctrl+option+d)
 // @author       Neel Prabir Singh (https://github.com/dyrok/)
 // @match        *://*/*
 // @grant        GM_addStyle
